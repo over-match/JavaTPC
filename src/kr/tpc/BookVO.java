@@ -20,10 +20,10 @@ public class BookVO {
 	
 	//생성자 메서드의 중복정의(overloading)
 	public BookVO(String title, int price, String company, int page) {
-		this.title=title;
-		this.price=price;
-		this.company=company;
-		this.page=page;
+		this.title = title;
+		this.price = price;
+		this.company = company;
+		this.page = page;
 	}
 	
 	
