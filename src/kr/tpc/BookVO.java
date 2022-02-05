@@ -26,5 +26,4 @@ public class BookVO {
 		this.page = page;
 	}
 	
-	
 }
