@@ -5,7 +5,7 @@ import kr.tpc.Dog;
 public class TPC22 {
 	public static void main(String[] args) {
 		
-		//upCasting
+		// upCasting
 //		Cat ani = new Cat();
 //		Object ani = new Cat(); //최상위 클래스
 		
