@@ -9,19 +9,9 @@ public interface RemoCon {
 	public static final int MINCH=1; //RemoCon.MINCH
 	
 	// 추상 메소드
-	/**
-	 * 채널 위
-	 */
 	public void chUp();
 
-	/**
-	 * 채널 아래
-	 */
 	public void chDown();
 
-	/**
-	 * 인터넷
-	 */
 	public void internet();
 }
-
