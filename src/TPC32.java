@@ -2,7 +2,7 @@ import kr.poly.DBconnect;
 import kr.tpc.JavaMySQL;
 import kr.tpc.JavaOracle;
 
-public class TPC27_JDBC {
+public class TPC32 {
 	public static void main(String[] args) {
 		
 		//Oracle, MySQL -> Driver class

@@ -1,6 +1,6 @@
 import kr.tpc.BookDTO;
 
-public class TPC13_1 {
+public class TPC31 {
 	public static void main(String[] args) {
 		// 책 -> class(BookDTO) -> 객체 -> 인스턴스
 		String title="스프링";
